@@ -1,0 +1,6 @@
+// 生产环境
+NODE_ENV = pro
+ 
+VUE_APP_BASEURL = ''
+
+VUE_APP_METABOLIC = ''
